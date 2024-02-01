@@ -1,0 +1,1835 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+  .banner-title img {
+    right: 2em;
+  }
+
+  .banner-desc p {
+    width: 90%;
+  }
+
+  .banner-social {
+    left: 10px;
+  }
+
+  .fecilities-box-title h4 {
+    font-size: 20px;
+  }
+
+  .about-thumb img {
+    margin-left: -26em;
+  }
+
+  section.about-seciton .cycling-section-title h1 {
+    width: 100%;
+    font-size: 45px;
+  }
+
+  .about-desc p {
+    width: 100%;
+  }
+
+  .about-title h4 {
+    font-size: 20px;
+  }
+
+  .about-items {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .about-item:first-child {
+    margin-bottom: 0;
+  }
+
+  .image-slide.style img:nth-child(2) {
+    margin-top: -15rem;
+  }
+
+  .blog-box-bottom {
+    width: 100%;
+    gap: 18px;
+  }
+
+  .why-choose-box-left {
+    flex: 57%;
+  }
+
+  section.contact-section .Cycling-section-title h1 {
+    font-size: 36px;
+  }
+
+  section.newsletter-section .Cycling-section-title h1 {
+    font-size: 34px;
+  }
+
+  .category-box-content {
+    width: 100%;
+  }
+
+  .check-out-box-title h4 {
+    font-size: 23px;
+  }
+
+  .footer-shape {
+    display: none;
+  }
+
+  /* Homepage Two */
+
+  .category-single-box.style1 {
+    padding: 42px 32px;
+  }
+
+  .process-desc p {
+    width: 100%;
+  }
+
+  .rely-box-icon {
+    flex: 19%;
+  }
+
+  /* Homepage Three */
+
+  /* Homepage Four */
+
+  /* Blog Inner Page */
+
+  /* About Inner Page */
+
+  section.about-seciton.style2 .about-thumb img {
+    margin-left: -5rem;
+    width: 100%;
+  }
+
+  .support-single-box.style2 {
+    width: 303px;
+  }
+
+  .support-box-sub-title h4 {
+    font-size: 28px;
+  }
+
+  .support-box-title h2 {
+    font-size: 37px;
+  }
+
+  .support-single-box.style2 .support-btn {
+    margin: 3.4rem 0px -11px;
+  }
+
+  /* Blog Details Inner Page */
+
+  /* Homepage Three */
+
+  /* Homepage Four */
+
+  .about-details-thumb img {
+    margin-left: -20rem;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-related-title h1 {
+    font-size: 32px;
+  }
+
+  /* Contact Inner Page */
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+  /*Homepage One
+    ===================*/
+
+  nav.header-menu > ul > li {
+    padding: 35px 0 35px 28px;
+  }
+
+  nav.header-menu ul li a::before {
+    right: -16px;
+  }
+
+  .sticky nav.header-menu ul li {
+    padding: 24px 0 24px 14px;
+  }
+
+  nav.header-menu > ul > li:last-child {
+    padding: 0 0 0 10px;
+  }
+
+  .Cycling-logo img {
+    width: 100%;
+  }
+
+  .banner-social {
+    left: 5px;
+  }
+
+  .banner-title h1 {
+    font-size: 50px;
+    line-height: 56px;
+  }
+
+  .banner-title img {
+    top: 38px;
+  }
+
+  .banner-desc p {
+    width: 100%;
+  }
+
+  .banner-thumb img {
+    width: 100%;
+  }
+
+  section.banner-slider ul.slick-dots li.slick-active:before {
+    color: #ffffff;
+  }
+
+  section.banner-slider ul.slick-dots li:after {
+    background-color: #ffffff;
+  }
+
+  .banner-section.style2 .banner-title h1 {
+    width: 52%;
+  }
+
+  .feature-box-title h3 {
+    font-size: 36px;
+  }
+
+  .testimonial-thumb img {
+    margin-left: 0rem;
+  }
+
+  section.testimonial-section .Cycling-section-title h1 {
+    width: 100%;
+  }
+
+  section.about-seciton .cycling-section-title h1 {
+    width: 100%;
+    font-size: 37px;
+    line-height: 40px;
+  }
+
+  .about-items {
+    gap: 0;
+    flex-direction: column;
+  }
+
+  .about-item:first-child {
+    margin-bottom: 0;
+  }
+
+  .direction-content {
+    padding: 40px 20px;
+  }
+
+  .direction-section-title h1 {
+    font-size: 32px;
+  }
+
+  .image-slide.style img:nth-child(2) {
+    margin-top: -13rem;
+  }
+
+  .check-out-box-content {
+    padding: 30px 10px 70px;
+  }
+
+  .check-out-box-title h4 {
+    font-size: 22px;
+  }
+
+  .blog-box-bottom {
+    width: 100%;
+  }
+
+  .footer-social ul li {
+    margin: 0;
+  }
+
+  .footer-shape {
+    display: none;
+  }
+
+  .about-thumb img {
+    margin-left: -31.4em;
+  }
+
+  /* Homepage Three */
+
+  /* Homepage Four */
+
+
+  /* Support Inner Page */
+
+
+  .support-single-box {
+    padding: 40px 20px;
+  }
+
+  .support-section .cycling-btn a, .cycling-btn button {
+    padding: 13px 60px 12px 22px;
+  }
+
+  .support-single-box.style2 {
+    padding: 52px 0 40px 22px;
+    width: auto;
+  }
+
+  .support-single-box.style2 .support-btn {
+    margin: 5rem 0 -11px;
+  }
+
+  /* Shop Details */
+
+  .product-box-title h6 {
+    font-size: 17px;
+  }
+
+  /* Service  */
+  .reward-shape3 {
+    top: 13%;
+  }
+
+  /* Service Details Inner Page */
+
+  section.services-details__content .feature-list .single-item .title {
+    font-size: 13px;
+  }
+
+  /* Blog Details Inner Page */
+
+  .blog-details-title h1 {
+    font-size: 30px;
+  }
+
+  .related-blog-single-box .blog-box-title a {
+    font-size: 16px;
+  }
+
+  .form-condition p {
+    margin: 0;
+    display: inherit;
+  }
+
+  .contact-title h1 {
+    font-size: 40px;
+  }
+
+  .recent-comment-content p {
+    font-size: 13px;
+  }
+
+  .post-date h5 {
+    font-size: 13px;
+  }
+
+  .recent-post-icon {
+    margin-right: 10px;
+  }
+
+  .post-title h5 {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-content {
+    padding: 20px;
+  }
+
+  .blog-inner-box-title h3 {
+    font-size: 16px;
+  }
+
+  .blog-inner-box-desc p {
+    font-size: 13px;
+  }
+
+  /* Contact Inner Page */
+
+  /* Faq Inner Page */
+
+  .accordion-title {
+    font-size: 15px;
+  }
+
+  /* Course Details Inner Page */
+
+  .tabs li a {
+    margin-left: 0px;
+  }
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  header.header-top-section {
+    display: none;
+  }
+
+  header.header-manu-section {
+    display: none;
+  }
+
+  .sticky {
+    position: relative !important;
+  }
+
+  .banner-section {
+    height: 700px;
+  }
+
+  .banner-shape {
+    left: -6rem;
+    top: -6rem;
+  }
+
+  .banner-title h1 {
+    width: 80%;
+  }
+
+  .banner-section.style2 .banner-title h1 {
+    width: 74%;
+  }
+
+  .banner-social {
+    left: 10px;
+  }
+
+  section.banner-slider ul.slick-dots li.slick-active:before {
+    color: #ffffff;
+  }
+
+  section.banner-slider ul.slick-dots li:after {
+    background-color: #ffffff;
+  }
+
+  .about-thumb img {
+    margin-left: 1rem;
+    width: 92%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+  }
+
+  .about-content {
+    padding: 0 3%;
+  }
+
+  section.about-seciton .cycling-section-title h1 {
+    width: 70%;
+  }
+
+  .about-video a {
+    display: none;
+  }
+
+  section.check-out-section::before {
+    height: 31%;
+  }
+
+  section.testimonial-section {
+    padding: 120px 0;
+  }
+
+  section.testimonial-section .Cycling-section-title h1 {
+    width: 74%;
+  }
+
+  .testimonial-desc p {
+    width: 80%;
+  }
+
+  .testimonial-thumb {
+    margin-top: 2rem;
+  }
+
+  section.testimonial-section.style2 {
+    padding: 100px 0 200px;
+    margin-bottom: -115px;
+  }
+
+  .direction-content {
+    margin: 2rem 0;
+  }
+
+  .direction-form {
+    margin-bottom: 2rem;
+  }
+
+  .products-box:first-child {
+    margin-bottom: 2rem;
+  }
+
+  .check-out-box-title h4 {
+    font-size: 22px;
+  }
+
+  .footer-title h3 {
+    margin-top: 1rem;
+  }
+
+  /* Banner Inner Page */
+
+  section.breadcamp-section {
+    height: 430px;
+  }
+
+  .breadcamp-title h1 {
+    margin-top: 0rem;
+}
+
+  /* About Inner Page */
+
+  section.about-section.style-5 .about-thumb img {
+    margin-left: 0;
+  }
+
+  section.about-seciton.style2 .about-thumb img {
+    margin-left: 2rem;
+  }
+
+  .support-single-box.style2 {
+    padding: 52px 0 20px 32px;
+    width: 372px;
+  }
+
+  .support-single-box.style2 .support-btn {
+    margin: 72px 0 -11px;
+  }
+
+  /* Checkout Inner Page  */
+
+  .shop-product-section {
+    padding: 100px 0 200px;
+    margin-bottom: -115px;
+  }
+
+  /* Faq Inner Page  */
+
+  .faq-inner-section {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Faq Inner Page  */
+
+  section.blog-details {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Experience Inner Page  */
+
+  .experience-section.style2 {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Service Details Inner Page  */
+
+  section.services-details {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Product Inner Page  */
+
+  section.product-section {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Shop Details Inner Page  */
+
+  section.shop-related {
+    padding: 120px 0 220px;
+    margin-bottom: -115px;
+  }
+
+  /* Cart Inner Page */
+
+  .cart-section {
+    padding: 120px 0 205px;
+    margin-bottom: -115px;
+  }
+
+  /* Blog Details Inner Page */
+
+  .blog-detials-single-box h4 {
+    font-size: 18px;
+  }
+
+  .related-blog-single-box {
+    margin-bottom: 30px;
+  }
+
+  .blog-deteils-post-title h1 {
+    font-size: 24px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  /* Why Choose Us */
+
+  section.why-choose-us-section {
+    padding: 120px 0 215px;
+    position: relative;
+    margin-bottom: -115px;
+  }
+
+  /* faq inner Page */
+
+  .accordion-title {
+    font-size: 17px;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-content {
+    padding: 20px;
+  }
+
+  .blog-inner-box-title h3 {
+    font-size: 20px;
+  }
+
+  .blog-inner-box-desc p {
+    font-size: 14px;
+  }
+
+  .blog-inner-single-box {
+    margin-bottom: 110px;
+  }
+
+  .blog-btn {
+    margin-top: -0.8em;
+  }
+
+  /* Course Inner Page */
+
+  .course-box-title a {
+    font-size: 20px;
+  }
+
+  /* Contact Inner Page */
+
+  .contact-inner-shape2 {
+    right: -1rem;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-info-thumb img {
+    margin-top: 2rem;
+  }
+
+  .portfolio-related-thumb {
+    margin-bottom: 30px;
+  }
+
+  /* Shop Details Innner Page */
+
+  .thumb-tabs {
+    margin-bottom: 30px;
+  }
+
+  /* Pricing Inner Page */
+
+  section.pricing-section {
+    padding: 120px 0 205px;
+    margin-bottom: -115px;
+  }
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+  header.header-top-section {
+    display: none;
+  }
+
+  header.header-manu-section {
+    display: none;
+  }
+
+  .sticky {
+    position: relative !important;
+  }
+
+  .banner-shape {
+    left: -6rem;
+    top: -6rem;
+  }
+
+  .banner-section {
+    height: 660px;
+  }
+
+  .banner-title h1 {
+    font-size: 38px;
+    line-height: 52px;
+    width: 72%;
+    height: 100px;
+  }
+
+  .banner-desc p {
+    width: 80%;
+  }
+
+  .banner-thumb img {
+    margin-top: 2rem;
+    width: 100%;
+  }
+
+  .banner-social {
+    left: 10px;
+  }
+
+  .banner-title img {
+    right: 2em;
+    top: 33px;
+  }
+
+  section.banner-slider ul.slick-dots li.slick-active:before {
+    color: #ffffff;
+  }
+
+  section.banner-slider ul.slick-dots li:after {
+    background: #f95614;
+  }
+
+  .cycling-section-title h1 {
+    font-size: 36px;
+    line-height: 42px;
+  }
+
+  section.about-seciton .cycling-section-title h1 {
+    width: 68%;
+  }
+
+  .about-thumb img {
+    margin: 2rem;
+    width: 80%;
+  }
+
+  .about-content {
+    padding: 0 2%;
+  }
+
+  .about-video a {
+    display: none;
+  }
+
+  .image-slide.style img:nth-child(2) {
+    margin-top: -25rem;
+  }
+
+  section.testimonial-section {
+    padding: 120px 0;
+  }
+
+  .testimonial-thumb img {
+    width: 100%;
+    margin: 6rem 0 0;
+  }
+
+  .direction-section-title h1 {
+    font-size: 35px;
+  }
+
+  .direction-content {
+    margin: 2rem 0;
+  }
+
+  form.direction-form {
+    margin-bottom: 2rem;
+  }
+
+  .products-box {
+    margin-bottom: 2rem;
+  }
+
+  .blog-box-bottom {
+    justify-content: space-between;
+  }
+
+  /* Why Choose Us Inner Page */
+
+  section.why-choose-us-section {
+    margin-bottom: -102px;
+  }
+
+  /* Pricing Inner Page */
+  section.pricing-section {
+    margin-bottom: -105px;
+  }
+
+  .footer-bottom-desc p {
+    margin: 18px 0;
+  }
+
+  .footer-bottom-link {
+    text-align: left;
+  }
+
+  .footer-bottom-link ul li {
+    margin: 0 24px 24px 0;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .shop-product-section {
+    padding: 100px 0 200px;
+    margin-bottom: -105px;
+  }
+
+  /* faq Inner Page */
+
+  .faq-inner-section {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* blog details Inner Page */
+
+  section.blog-details {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Experience Inner Page */
+
+  .experience-section.style2 {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* servcie details Inner Page */
+
+  section.services-details {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Shop Details Inner Page */
+
+  section.shop-related {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Product Inner Page */
+
+  section.product-section {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Cart Inner Page */
+
+  .cart-section {
+    margin-bottom: -102px;
+  }
+
+  /* Banner Inner Page */
+
+  section.breadcamp-section {
+    height: 21rem;
+  }
+
+  .breadcamp-title h1 {
+    margin-top: 0rem;
+}
+
+  .breadcamp-title h1 {
+    font-size: 60px;
+  }
+
+  /* About Inner Page */
+
+  section.about-section.style-5 .about-thumb img {
+    margin-left: 0;
+  }
+
+  /* Blog Details Inner Page */
+
+  .related-blog-single-box {
+    margin-bottom: 30px;
+  }
+
+  .blog-deteils-post-title h1 {
+    font-size: 22px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  .form-condition p {
+    display: inherit;
+  }
+
+  .recent-comment-content p {
+    font-size: 15px;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-single-box {
+    margin-bottom: 110px;
+  }
+
+  .blog-btn {
+    margin-top: -0.8em;
+  }
+
+  /* Course Details Inner Page */
+
+  .tabs li a {
+    margin-left: 0px;
+  }
+
+  .course-dtls-section .tabs li a {
+    font-size: 18px;
+    width: 118px;
+  }
+
+  /* Faq Inner Page */
+
+  .accordion-title {
+    font-size: 15px;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-info-thumb img {
+    margin-top: 2rem;
+  }
+
+  .portfolio-info-title h1 {
+    font-size: 28px;
+  }
+
+  .portfolio-related-thumb {
+    margin-top: 30px;
+  }
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+  header.header-top-section {
+    display: none;
+  }
+
+  header.header-manu-section {
+    display: none;
+  }
+
+  .sticky {
+    position: relative !important;
+  }
+
+  .banner-shape {
+    left: -6rem;
+    top: -7rem;
+  }
+
+  .banner-title h1 {
+    font-size: 33px;
+    line-height: 40px;
+    width: 72%;
+    height: 90px;
+  }
+
+  .banner-social {
+    display: none;
+  }
+
+  .banner-desc p {
+    width: 86%;
+  }
+
+  .banner-section {
+    height: 620px;
+  }
+
+  .banner-title h1 {
+    font-size: 28px;
+    line-height: 38px;
+    width: 90%;
+    height: 76px;
+  }
+
+  .banner-title img {
+    position: absolute;
+    right: 1em;
+    top: 26px;
+  }
+
+  .banner-thumb img {
+    width: 100%;
+  }
+
+  section.testimonial-section .Cycling-section-title h1 {
+    width: 100%;
+  }
+
+  section.testimonial-section.style2 {
+    margin-bottom: -102px;
+  }
+
+  section.team-member-section.style2 {
+    margin-bottom: -102px;
+  }
+
+  .contact-thumb img {
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+
+  section.latest-news-section {
+    margin-bottom: -105px;
+  }
+
+  .latest-news-section .Cycling-section-title h1 {
+    font-size: 34px;
+  }
+
+  section.newsletter-section {
+    padding: 45px 30px;
+    margin-bottom: -100px;
+  }
+
+  section.newsletter-section .Cycling-section-title h1 {
+    font-size: 22px;
+  }
+
+  .newsletter-content {
+    margin-bottom: 2rem;
+  }
+
+  .footer-bottom-desc p {
+    margin: 18px 0;
+  }
+
+  .footer-bottom-link {
+    text-align: left;
+  }
+
+  .footer-bottom-link ul li {
+    margin: 0 24px 24px 0;
+  }
+
+  .testimonial-desc p {
+    width: 80%;
+  }
+
+  .blog-desc p {
+    width: 85%;
+  }
+
+  .testimonial-thumb img {
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  .about-thumb img {
+    margin-left: 1rem;
+    width: 100%;
+    margin-bottom: 30px;
+    margin-top: 2rem;
+  }
+
+  .about-content {
+    padding: 0 2%;
+  }
+
+  .about-video a {
+    display: none;
+  }
+
+  section.check-out-section::before {
+    height: 20%;
+  }
+
+  section.testimonial-section {
+    padding: 120px 0;
+  }
+
+  .testimonial-thumb img {
+    width: 100%;
+    margin-top: 6rem;
+    margin-left: 0;
+  }
+
+  .direction-content {
+    padding: 40px 20px;
+  }
+
+  .direction-form {
+    margin: 2rem 0;
+  }
+
+  .products-box {
+    padding: 80px 40px;
+    margin-bottom: 30px;
+  }
+
+  .blog-box-bottom {
+    justify-content: space-between;
+  }
+
+  .footer-title h3 {
+    margin-top: 1rem;
+  }
+
+  .footer-shape {
+    display: none;
+  }
+
+  /* About Inner Page */
+  section.about-seciton.style2 .about-thumb img {
+    margin-left: 0rem;
+  }
+
+  /* Banner Inner Page */
+  section.breadcamp-section {
+    height: 16.8rem;
+  }
+
+  .breadcamp-title h1 {
+    margin-top: 0rem;
+}
+
+  /* Cart Inner Page */
+
+  .cart-section {
+    margin-bottom: -102px;
+  }
+
+  /* Why Choose Us Inner Page */
+
+  section.why-choose-us-section {
+    margin-bottom: -102px;
+  }
+
+  /* Service Details Inner Page */
+
+  section.services-details h2 {
+    font-size: 34px;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .shop-product-section {
+    padding: 100px 0 200px;
+    margin-bottom: -105px;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .faq-inner-section {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Blog Details Inner Page
+  ===================*/
+  section.blog-details {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .experience-section.style2 {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Service Details Inner Page
+  ===================*/
+  section.services-details {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Shop Details Inner Page
+  ===================*/
+  section.shop-related {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Product Inner Page
+  ===================*/
+  section.product-section {
+    padding: 120px 0 220px;
+    margin-bottom: -105px;
+  }
+
+  /* Breadcamp  Page */
+
+  .breadcamp-title h1 {
+    font-size: 54px;
+  }
+
+  /* About Inner Page */
+
+  section.about-section.style-5 .about-thumb img {
+    margin-left: 0;
+  }
+
+  /* Blog Details Inner Page */
+
+  .related-blog-single-box {
+    margin-bottom: 30px;
+  }
+
+  .blog-deteils-content-top {
+    gap: 3px;
+  }
+
+  .blog-deteils-content-top h6 {
+    font-size: 14px;
+  }
+
+  .blog-deteils-post-title h1 {
+    font-size: 22px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  .blog-details-title h1 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+
+  .blog-details-box {
+    flex-direction: column;
+  }
+
+  .form-condition p {
+    display: inherit;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-single-box {
+    margin-bottom: 110px;
+  }
+
+  .blog-btn {
+    margin-top: -0.8em;
+  }
+
+  /* Faq Inner Page */
+
+  .accordion-title {
+    font-size: 15px;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-info-thumb img {
+    margin-top: 2rem;
+  }
+
+  .portfolio-info {
+    padding: 38px 30px;
+  }
+
+  .portfolio-info-title h1 {
+    font-size: 28px;
+  }
+
+  .portfolio-strategy {
+    padding: 30px 30px;
+  }
+
+  .portfolio-strategy-title h1 {
+    font-size: 28px;
+  }
+
+  .portfolio-related-thumb {
+    margin-top: 30px;
+  }
+
+  /* Pricing Inner Page */
+
+  section.pricing-section {
+    margin-bottom: -102px;
+  }
+
+  /* Shop Details Inner Page */
+
+  .shop-details-title h2 {
+    font-size: 26px;
+    margin-top: 30px;
+  }
+
+  .info-tab-btn button {
+    padding: 14px 16px;
+  }
+
+  .profile-name {
+    gap: 30px;
+  }
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  header.header-top-section {
+    display: none;
+  }
+
+  header.header-manu-section {
+    display: none;
+  }
+
+  .sticky {
+    position: relative !important;
+  }
+
+  .banner-shape {
+    left: -6rem;
+    top: -7rem;
+  }
+
+  .banner-section {
+    height: 620px;
+  }
+
+  .banner-title h1 {
+    font-size: 28px;
+    line-height: 38px;
+    width: 90%;
+    height: 76px;
+  }
+
+  .banner-title img {
+    position: absolute;
+    right: 1em;
+    top: 24px;
+  }
+
+  section.banner-slider .slick-dots {
+    right: 20px;
+  }
+
+  section.banner-slider ul.slick-dots li.slick-active:before {
+    color: #ffffff;
+  }
+
+  section.banner-slider ul.slick-dots li:after {
+    background-color: #ffffff;
+  }
+
+  .banner-social {
+    display: none;
+  }
+
+  .banner-desc p {
+    width: 100%;
+  }
+
+  .about-thumb img {
+    margin-left: 1rem;
+    width: 100%;
+    margin-bottom: 30px;
+    margin-top: 2rem;
+  }
+
+  section.about-seciton .cycling-section-title h1 {
+    width: 100%;
+  }
+
+  .cycling-section-title h1 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+
+  .feature-box-title h3 {
+    font-size: 36px;
+    line-height: 42px;
+  }
+
+  .about-content {
+    padding: 0 2%;
+  }
+
+  .about-video a {
+    display: none;
+  }
+
+  .about-items {
+    gap: 0;
+    flex-direction: column;
+  }
+
+  .about-item:first-child {
+    margin-bottom: 0;
+  }
+
+  section.testimonial-section {
+    padding: 120px 0;
+  }
+
+  .testimonial-box::before {
+    height: 78%;
+  }
+
+  .testimonial-thumb img {
+    width: 100%;
+    margin: 6rem 0 0;
+  }
+
+  .testimonial-desc p {
+    width: 100%;
+  }
+
+  .direction-content {
+    padding: 40px 20px;
+    margin-bottom: 30px;
+  }
+
+  .products-box {
+    padding: 80px 20px;
+    margin: 15px 0;
+  }
+
+  .check-out-box-title h4 {
+    font-size: 20px;
+  }
+
+  .blog-box-bottom {
+    gap: 4px;
+  }
+
+  .footer-bottom-desc p {
+    margin: 18px 0;
+  }
+
+  .footer-bottom-link {
+    text-align: left;
+  }
+
+  .footer-bottom-link ul li {
+    margin: 0 24px 24px 0;
+  }
+
+  .footer-title h3 {
+    margin-top: 1rem;
+  }
+
+  .footer-shape {
+    display: none;
+  }
+
+  /* About Inner Page */
+  section.about-seciton.style2 .about-thumb img {
+    margin-left: 0;
+  }
+
+  .support-single-box.style2 {
+    padding: 32px 0 40px 32px;
+    width: 310px;
+  }
+
+  .about-title h4 {
+    font-size: 19px;
+  }
+
+  section.about-seciton.style2 .about-item {
+    gap: 14px;
+  }
+
+  /*Pricing
+    ===================*/
+
+  section.pricing-section {
+    margin-bottom: -108px;
+  }
+
+  section.why-choose-us-section {
+    margin-bottom: -108px;
+  }
+
+  /* Cart Inner Page */
+
+  .cart-section {
+    margin-bottom: -108px;
+  }
+
+  /* Checkout Inner Page
+  ===================*/
+  .shop-product-section {
+    padding: 100px 0 200px;
+    margin-bottom: -110px;
+  }
+
+  /* Faq Inner Page
+  ===================*/
+  .faq-inner-section {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Blog Details Inner Page
+  ===================*/
+  section.blog-details {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Experience Inner Page
+  ===================*/
+  .experience-section.style2 {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Shop Details Inner Page
+  ===================*/
+  section.shop-related {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Service Details Inner Page
+  ===================*/
+  section.services-details {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Product Inner Page
+  ===================*/
+  section.product-section {
+    padding: 120px 0 220px;
+    margin-bottom: -110px;
+  }
+
+  /* Banner Inner Page */
+
+  section.breadcamp-section {
+    height: 11rem;
+  }
+
+  .breadcamp-title h1 {
+    margin-top: 0rem;
+}
+
+  /* CArt Inner Page */
+
+  .cart-product-mobile-thumb {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  .product-quantity-count input {
+    margin: 0;
+    width: 100%;
+  }
+
+  /* Quick View  */
+
+  .color-value ul li {
+    margin: 0;
+  }
+
+  .metarial-value ul li {
+    display: block;
+  }
+
+  .quantity {
+    margin-bottom: 20px;
+  }
+
+  /* Shop Inner Page */
+
+  .breadcamp-title h1 {
+    font-size: 58px;
+  }
+
+  /* About Inner Page */
+
+  section.about-section.style-5 .about-thumb img {
+    margin-left: 0;
+  }
+
+  .testimonial-box {
+    padding: 40px 32px 34px;
+  }
+
+  /* Blog Details Inner Page */
+
+  .related-blog-single-box {
+    margin-bottom: 30px;
+  }
+
+  .blog-details-form-btn {
+    margin-bottom: 30px;
+  }
+
+  .blog-deteils-content-top {
+    align-items: first baseline;
+    gap: 0;
+    flex-direction: column;
+  }
+
+  .blog-deteils-post-title h1 {
+    font-size: 17px;
+  }
+
+  .recent-post-icon {
+    margin-right: 10px;
+  }
+
+  .post-title h5 {
+    font-size: 12px;
+  }
+
+  .blog-details-comments-item {
+    flex-direction: column;
+  }
+
+  .blog-details-title h1 {
+    font-size: 26px;
+    line-height: 34px;
+  }
+
+  .blog-details-social {
+    flex-direction: column;
+  }
+
+  .blog-details-box {
+    flex-direction: column;
+  }
+
+  .blog-content {
+    padding: 30px;
+  }
+
+  .related-blog-single-box .blog-box-title a {
+    font-size: 16px;
+  }
+
+  .blog-box-footer {
+    gap: 2px;
+  }
+
+  .comment-reply button {
+    top: 34px;
+  }
+
+  .blog-details-form-bottom {
+    gap: 20px;
+    flex-direction: column;
+  }
+
+  .form-condition p {
+    display: inherit;
+  }
+
+  .post-date h5 {
+    font-size: 13px;
+  }
+
+  .recent-comment-content p {
+    font-size: 13px;
+  }
+
+  .contact-title h1 {
+    font-size: 40px;
+  }
+
+  /* Blog Inner Page */
+
+  .blog-inner-content {
+    padding: 10px;
+  }
+
+  .blog-inner-box-title h3 {
+    font-size: 18px;
+  }
+
+  .blog-inner-box-desc p {
+    font-size: 14px;
+  }
+
+  .blog-inner-single-box {
+    margin-bottom: 110px;
+  }
+
+  .blog-btn {
+    margin-top: -0.8em;
+  }
+
+  /* Cart Inner Page */
+
+  .breadcamp-title h1 {
+    font-size: 40px;
+  }
+
+  .breadcamp-title h1 {
+    margin-top: 0rem;
+}
+
+  .area-title.bdr h2 {
+    font-size: 35px;
+  }
+
+  .c-img img {
+    width: 60px;
+  }
+
+  .table > :not(caption) > * > * {
+    padding: 0.2rem 0.2rem;
+  }
+
+  .c-price {
+    font-size: 10px;
+  }
+
+  .c-qty span {
+    height: 28px;
+    line-height: 28px;
+    width: 20px;
+  }
+
+  .table.table-bordered tr {
+    font-size: 10px;
+    line-height: 20px;
+  }
+
+  .c-name span {
+    font-size: 7px;
+    line-height: 18px;
+  }
+
+  .button.c_button {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+
+  /* Contact Inner Page */
+
+  .form-top {
+    gap: 20px;
+    flex-direction: column;
+  }
+
+  .contact-inner-item {
+    width: 84%;
+  }
+
+  /* Faq Inner Page */
+
+  .accordion-title {
+    font-size: 16px;
+  }
+
+  /* Portfolio Details Inner Page */
+
+  .portfolio-info-thumb img {
+    margin-top: 2rem;
+  }
+
+  .breadcamp-title h1 {
+    font-size: 34px;
+    margin-bottom: -25px;
+  }
+
+  .breadcamp-link a {
+    font-size: 18px;
+  }
+
+  .portfolio-info {
+    padding: 28px 20px;
+  }
+
+  .portfolio-info-title h1 {
+    font-size: 18px;
+  }
+
+  .portfolio-info-details h6 {
+    font-size: 16px;
+  }
+
+  .portfolio-info-details span {
+    font-size: 13px;
+  }
+
+  .portfolio-info-share ul li {
+    margin: 0 0px;
+  }
+
+  .portfolio-strategy {
+    padding: 30px 20px;
+  }
+
+  .portfolio-strategy-title h1 {
+    font-size: 22px;
+  }
+
+  .portfolio-strategy-desc p {
+    font-size: 14px;
+  }
+
+  .portfolio-related-title h1 {
+    font-size: 24px;
+  }
+
+  .portfolio-related-thumb {
+    margin-top: 30px;
+  }
+
+  /* Pricing Inner Page */
+
+  .pricing-inner-box-bottom {
+    padding: 22px;
+  }
+
+  /* Shop Details Inner Page */
+
+  .shop-details-title h2 {
+    font-size: 26px;
+    margin-top: 30px;
+  }
+
+  .info-tab-btn button {
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+
+  .shop-review {
+    flex-direction: column;
+  }
+
+  .profile-name {
+    gap: 30px;
+  }
+
+  td.table_title {
+    width: 144px;
+    padding: 0 20px;
+  }
+
+  .shop-related-title h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+}
